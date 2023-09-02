@@ -3,7 +3,7 @@ Analyzed the factors contributing to employee turnover in order to help potentia
 
 ## Project Overview
 
-Used a predictive model based on a decision tree classifier in order to identify and assess various turnover risk factors.
+Used a predictive model based on a decision tree classifier in order to assess various turnover risk factors.
 
 ## Reproducibility Guidelines
 
