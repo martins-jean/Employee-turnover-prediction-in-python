@@ -1,4 +1,4 @@
-# Employee Turnover Prediction in Python
+# Employee Turnover Prediction with Scikit-Learn
 Analyzed the factors contributing to employee turnover in order to help potential retention efforts.
 
 ## Project Overview
