@@ -8,6 +8,15 @@ Employee turnover represents a major burden for companies because it leads to di
 This is the first of a series of projects on workforce analytics. Given the importance of turnover, I decided to explore that topic twice (in python and in R) thereby using different datasets, models and perspectives.
 </p>
 
+## Project objectives
+
+<p align="justify">
+1. Describe and visualize the key variables and prepare the dataset for analytics. <br>
+2. Develop a decision tree classifier model. <br>
+3. Use cross-validation and dimensionality reduction to avoid overfitting the training data. <br>
+4. Evaluate the model and perform hyperparameter tuning to select the optimal tree. 
+</p>
+
 ## Reproducibility guidelines
 
 <p align="justify">
