@@ -18,4 +18,7 @@ For notebook-based projects, please refer directly to the Google Colab notebook 
 Python libraries: <br>
 - numpy. <br>
 - pandas. <br>
-- 
+- matplotlib. <br>
+- seaborn. <br>
+- scikit-learn.
+</p>
