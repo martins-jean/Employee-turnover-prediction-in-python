@@ -3,7 +3,7 @@
 ## Contextual overview
 
 <p align="justify">
-This is the first of a series of projects on workforce analytics. Employee turnover is such a financial burden for companies that I decided to explore that topic twice (in python and in R) thereby using different datasets and models.
+This is the first of a series of workforce analytics projects. Employee turnover is such a financial burden for companies that I decided to explore that topic twice (in python and in R) thereby using different datasets and models.
 </p>
 
 ## Reproducibility Guidelines
