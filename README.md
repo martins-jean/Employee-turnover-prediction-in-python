@@ -3,6 +3,8 @@
 ## Contextual overview
 
 <p align="justify">
+Employee turnover represents a major burden for companies because it leads to direct costs in the form of hiring costs, training costs, productivity loss, opportunity costs for accounts left unmanaged as well as indirect costs such as the loss of institutional knowledge and the impact on employee morale. <br> <br>
+
 This is the first of a series of projects on workforce analytics. Employee turnover is such a burden for companies that I decided to explore that topic twice (in python and in R) thereby using different datasets and models.
 </p>
 
