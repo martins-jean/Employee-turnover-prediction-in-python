@@ -1,9 +1,11 @@
-# Employee Turnover Prediction in Python
-Analyzed the factors contributing to employee turnover in order to help potential retention efforts.
+# Employee turnover prediction in python
 
-## Project Overview
+## Contextual overview
 
-Used a predictive model based on a decision tree classifier in order to assess various turnover risk factors.
+<p align="justify">
+This is the first of a series of projects on HR analytics. <br>
+Turnover is such a financial burden for companies that I decided to explore that topic twice, once in python and once in R thereby using different datasets and models.
+</p>
 
 ## Reproducibility Guidelines
 
