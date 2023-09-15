@@ -11,3 +11,11 @@ This is the first of a series of projects on workforce analytics. Employee turno
 <p align="justify">
 For notebook-based projects, please refer directly to the Google Colab notebook I uploaded to this repository.
 </p>
+
+## Technologies used
+
+<p align="justify">
+Python libraries: <br>
+- numpy. <br>
+- pandas. <br>
+- 
