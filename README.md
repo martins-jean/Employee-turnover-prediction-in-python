@@ -14,7 +14,8 @@ This is the first of a series of projects on workforce analytics. Given the impo
 1. Describe and visualize the key variables and prepare the dataset for analytics. <br>
 2. Develop a decision tree classifier model. <br>
 3. Use cross-validation and dimensionality reduction to avoid overfitting the training data. <br>
-4. Evaluate the model and perform hyperparameter tuning to select the optimal tree. 
+4. Evaluate the model and perform hyperparameter tuning to select the optimal tree. <br>
+5. Predict employee turnover using supervised machine learning.
 </p>
 
 ## Reproducibility guidelines
